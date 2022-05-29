@@ -8,7 +8,6 @@
             "email": "pierre@miniggiodev.fr"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4.0"
     },
@@ -16,10 +15,5 @@
         "psr-4": {
             "PierreMiniggio\\GithubUserAgent\\": "src/"
         }
-    },
-    "require-dev": {},
-    "scripts": {},
-    "scripts-descriptions": {
-        "test": "Run all tests!"
     }
 }
